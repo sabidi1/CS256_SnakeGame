@@ -26,24 +26,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Red.png</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Downloads/Red.png</locationURI>
-		</link>
-		<link>
 			<name>fruit.png</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/git/CS256_SnakeGame/CS256_SnakeGame/fruit.png</locationURI>
-		</link>
-		<link>
-			<name>player2.png</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Downloads/player2.png</locationURI>
-		</link>
-		<link>
-			<name>white.png</name>
-			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Downloads/white.png</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
